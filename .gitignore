@@ -1,0 +1,9 @@
+node_modules
+*.tmp.json
+*.process.json
+*.temp.json
+*.tmp.*
+process.json
+.process
+temp.json
+*.bat
